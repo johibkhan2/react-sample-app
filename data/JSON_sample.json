@@ -1,0 +1,133 @@
+{
+"companies":
+[
+	{
+		"description": "Lorem ipsum dolor sit amet",
+		"local": "Berlin",
+		"company": {
+			"name": "Company A",
+			"id": 1,
+			"imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Hudson%27s_Bay_Company_%28emblem%29.svg/1205px-Hudson%27s_Bay_Company_%28emblem%29.svg.png"
+		},
+		"startDate": "2017-08-01",
+		"endDate": "2017-08-01",
+		"id": 1
+	},
+	{
+		"description": "Lorem ipsum dolor sit amet",
+		"local": "Paris",
+		"company": {
+			"name": "Company B",
+			"id": 2,
+			"imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Hudson%27s_Bay_Company_%28emblem%29.svg/1205px-Hudson%27s_Bay_Company_%28emblem%29.svg.png"
+		},
+		"startDate": "2017-08-01",
+		"endDate": "2017-08-01",
+		"id": 2
+	},
+	{
+		"description": "Lorem ipsum dolor sit amet",
+		"local": "London",
+		"company": {
+			"name": "Company D",
+			"id": 3,
+			"imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Hudson%27s_Bay_Company_%28emblem%29.svg/1205px-Hudson%27s_Bay_Company_%28emblem%29.svg.png"
+		},
+		"startDate": "2017-08-01",
+		"endDate": "2017-08-01",
+		"id": 3
+	}
+	,
+	{
+		"description": "Lorem ipsum dolor sit amet",
+		"local": "America",
+		"company": {
+			"name": "Company E",
+			"id": 4,
+			"imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Hudson%27s_Bay_Company_%28emblem%29.svg/1205px-Hudson%27s_Bay_Company_%28emblem%29.svg.png"
+		},
+		"startDate": "2017-08-01",
+		"endDate": "2017-08-01",
+		"id": 4
+	},
+
+	{
+		"description": "Lorem ipsum dolor sit amet",
+		"local": "England",
+		"company": {
+			"name": "Company F",
+			"id": 5,
+			"imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Hudson%27s_Bay_Company_%28emblem%29.svg/1205px-Hudson%27s_Bay_Company_%28emblem%29.svg.png"
+		},
+		"startDate": "2017-08-01",
+		"endDate": "2017-08-01",
+		"id": 5
+	},
+
+	{
+		"description": "Lorem ipsum dolor sit amet",
+		"local": "Australia",
+		"company": {
+			"name": "Company G",
+			"id": 6,
+			"imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Hudson%27s_Bay_Company_%28emblem%29.svg/1205px-Hudson%27s_Bay_Company_%28emblem%29.svg.png"
+		},
+		"startDate": "2017-08-01",
+		"endDate": "2017-08-01",
+		"id": 6
+	},
+
+	{
+		"description": "Lorem ipsum dolor sit amet",
+		"local": "Ireland",
+		"company": {
+			"name": "Company H",
+			"id": 7,
+			"imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Hudson%27s_Bay_Company_%28emblem%29.svg/1205px-Hudson%27s_Bay_Company_%28emblem%29.svg.png"
+		},
+		"startDate": "2017-08-01",
+		"endDate": "2017-08-01",
+		"id": 7
+	},
+
+	{
+		"description": "Lorem ipsum dolor sit amet",
+		"local": "Netherland",
+		"company": {
+			"name": "Company I",
+			"id": 8,
+			"imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Hudson%27s_Bay_Company_%28emblem%29.svg/1205px-Hudson%27s_Bay_Company_%28emblem%29.svg.png"
+		},
+		"startDate": "2017-08-01",
+		"endDate": "2017-08-01",
+		"id": 8
+	},
+
+	{
+		"description": "Lorem ipsum dolor sit amet",
+		"local": "Scotland",
+		"company": {
+			"name": "Company J",
+			"id": 9,
+			"imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Hudson%27s_Bay_Company_%28emblem%29.svg/1205px-Hudson%27s_Bay_Company_%28emblem%29.svg.png"
+		},
+		"startDate": "2017-08-01",
+		"endDate": "2017-08-01",
+		"id": 9
+	},
+
+	{
+		"description": "Lorem ipsum dolor sit amet",
+		"local": "NewZealand",
+		"company": {
+			"name": "Company k",
+			"id": 10,
+			"imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Hudson%27s_Bay_Company_%28emblem%29.svg/1205px-Hudson%27s_Bay_Company_%28emblem%29.svg.png"
+		},
+		"startDate": "2017-08-01",
+		"endDate": "2017-08-01",
+		"id": 10
+	}
+
+]
+}
